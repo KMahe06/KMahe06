@@ -34,3 +34,8 @@ kmahe06" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmahe06&show_icons=true&locale=en" alt="kmahe06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmahe06&" alt="kmahe06" /></p>
+
+
+<br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2149-SRUTHI-S&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="NA">
