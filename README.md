@@ -37,5 +37,5 @@ kmahe06" /> </p>
 
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2149-SRUTHI-S&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KMahe06&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="NA">
